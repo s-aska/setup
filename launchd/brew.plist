@@ -10,7 +10,7 @@
             <string>update</string>
         </array>
         <key>WorkingDirectory</key>
-        <string>/Users/archinwater</string>
+        <string>/tmp</string>
         <key>StartCalendarInterval</key>
         <dict>
             <key>Hour</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>Label</key>
-        <string>pw.aska.brew</string>
+        <string>sh.brew</string>
         <key>ProgramArguments</key>
         <array>
             <string>/usr/local/bin/brew</string>

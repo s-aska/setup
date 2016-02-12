@@ -1,18 +1,18 @@
-# setup
+# Setup
 
-## first step
+## First step
 ```
 git clone git@github.com:s-aska/setup.git
 ```
 
-## daily brew update
+## Daily brew update
 ```
-# registration
+# Registration
 launchctl load setup/launchd/brew.plist
 
-# cancellation
+# Cancellation
 launchctl unload setup/launchd/brew.plist
 
-# check
+# Check
 launchctl list sh.brew
 ```
